@@ -1,9 +1,9 @@
 import React from "react"
 import SizedComponent from "../helpers/sized_component"
 
-const barStyle = {
-	fill: `rgb(255, 0, 0)`
-}
+// const barStyle = {
+// 	fill: `rgb(255, 0, 0)`
+// }
 
 const styleGridLine = {
 	stroke: "#d4d4d4",
@@ -48,10 +48,10 @@ class Visualization extends SizedComponent {
 	getBars() {
 		const m = this.props.margins
 		const width = this.state.width - m.left - m.right
-		const height = this.props.height - m.top - m.bottom
+		// const height = this.props.height - m.top - m.bottom
 		const barWidth = width / this.props.model.data.length
 		let x = m.left + 0.5 * this.props.barPadding * barWidth
-		const bottom = m.top + height
+		// const bottom = m.top + height
 
 		const bars = []
 		for (const d of this.props.model.data) {
@@ -74,7 +74,7 @@ class Visualization extends SizedComponent {
 					y={yMax}
 					width={w}
 					height={yMin - yMax}
-					key={d.date}
+					key={d.date || d.week}
 					style={colorStyle}
 				/>
 			)
