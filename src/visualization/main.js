@@ -46,6 +46,12 @@ class Visualization extends SizedComponent {
 			this.props.height - this.props.margins.top - this.props.margins.bottom
 		return this.props.margins.top + (1 - fact) * height
 	}
+	// assuming range from (-5, 25), we can later changed to base on data
+	getColor = temp => {
+		const temp_red = 255 * ((temp + 5) / 30)
+		const temp_blue = 255 - temp_red
+		return `rgb(${temp_red}, 125, ${temp_blue})`
+	}
 
 	getBars() {
 		const m = this.props.margins
@@ -66,23 +72,39 @@ class Visualization extends SizedComponent {
 			// because window coordinate direction is oppsite to temprature value
 			const yMax = this.getY(d.max_temp)
 			const yMin = this.getY(d.min_temp)
-			// color bar based on average temporature
-			const avg_temp = (d.max_temp + d.min_temp) / 2
-			// assuming range from (-5, 25), we can later changed to base on data
-			const avg_red = 255 * ((avg_temp + 5) / 30)
-			const avg_blue = 255 - avg_red
+			// color bar gradient on max and min temporature
+			const { max_temp, min_temp } = d
 			const colorStyle = {
-				fill: `rgb(${avg_red},70,${avg_blue})`
+				fill: `url(#barGrad${d.date || d.week})`
 			}
 			bars.push(
-				<rect
-					x={x}
-					y={yMax}
-					width={w}
-					height={yMin - yMax}
-					key={d.date || d.week}
-					style={colorStyle}
-				/>
+				<g key={d.date || d.week}>
+					<defs>
+						<linearGradient
+							id={`barGrad${d.date || d.week}`}
+							x1="0%"
+							y1="0%"
+							x2="0%"
+							y2="100%"
+						>
+							<stop
+								offset="0%"
+								style={{ stopColor: this.getColor(max_temp), stopOpacity: 1 }}
+							/>
+							<stop
+								offset="100%"
+								style={{ stopColor: this.getColor(min_temp), stopOpacity: 1 }}
+							/>
+						</linearGradient>
+					</defs>
+					<rect
+						x={x}
+						y={yMax}
+						width={w}
+						height={yMin - yMax}
+						style={colorStyle}
+					/>
+				</g>
 			)
 			x += barWidth
 		}
