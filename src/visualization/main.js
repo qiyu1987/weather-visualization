@@ -1,6 +1,8 @@
 import React from "react"
 import SizedComponent from "../helpers/sized_component"
 
+// move defination of BarStyle as color style inside the getBar() Method
+
 // const barStyle = {
 // 	fill: `rgb(255, 0, 0)`
 // }
@@ -48,6 +50,9 @@ class Visualization extends SizedComponent {
 	getBars() {
 		const m = this.props.margins
 		const width = this.state.width - m.left - m.right
+		// comment out height and bottom variables used to calculate bar height
+		// use yMax and yMin instead
+
 		// const height = this.props.height - m.top - m.bottom
 		const barWidth = width / this.props.model.data.length
 		let x = m.left + 0.5 * this.props.barPadding * barWidth
@@ -56,17 +61,18 @@ class Visualization extends SizedComponent {
 		const bars = []
 		for (const d of this.props.model.data) {
 			const w = (1 - this.props.barPadding) * barWidth
-			// geting Max temp as yMax, and Min tem as yMin
-			// change the height
+			// geting y of Max and Min temp as yMax and yMin
+			// change the height to be yMin - yMax
+			// because window coordinate direction is oppsite to temprature value
 			const yMax = this.getY(d.max_temp)
 			const yMin = this.getY(d.min_temp)
 			// color bar based on average temporature
 			const avg_temp = (d.max_temp + d.min_temp) / 2
-			// assuming range from (-5, 30), we can later changed to base on data
-			const avg_red = 255 * ((avg_temp + 5) / 35)
+			// assuming range from (-5, 25), we can later changed to base on data
+			const avg_red = 255 * ((avg_temp + 5) / 30)
 			const avg_blue = 255 - avg_red
 			const colorStyle = {
-				fill: `rgb(${avg_red},50,${avg_blue})`
+				fill: `rgb(${avg_red},70,${avg_blue})`
 			}
 			bars.push(
 				<rect
