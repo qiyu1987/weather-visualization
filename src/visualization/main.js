@@ -56,6 +56,8 @@ class Visualization extends SizedComponent {
 		const bars = []
 		for (const d of this.props.model.data) {
 			const w = (1 - this.props.barPadding) * barWidth
+			// geting Max temp as yMax, and Min tem as yMin
+			// change the height
 			const yMax = this.getY(d.max_temp)
 			const yMin = this.getY(d.min_temp)
 			bars.push(
@@ -63,7 +65,7 @@ class Visualization extends SizedComponent {
 					x={x}
 					y={yMax}
 					width={w}
-					height={bottom - yMin}
+					height={yMin - yMax}
 					key={d.date}
 					style={barStyle}
 				/>
