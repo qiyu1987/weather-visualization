@@ -1,3 +1,10 @@
+# Current Progress
+
+1. Connected the bottom of temporature bar by `getY(min_temp)` and change bar height accordingly
+2. Add color to bar by changeing `{fill:color}` style and define `getColor(temp)` method to get a rgb value between red and blue based on temperature
+3. Finish `getDataByWeek` method in `WeatherModel` Connected to Display in a second `Visualization` component
+4. Adding gradient color fill for bar
+
 # Assessment weather
 
 This project is your playground for creating a nice visual on past year's weather in the Netherlands. A detailed brief of what we are trying to achieve is in the PDF document assessment.pdf.
@@ -5,15 +12,15 @@ This project is your playground for creating a nice visual on past year's weathe
 You can either work with react using this setup, or you can use plain Javascript. The are a few rules to follow below:
 
 ## Rules
+
 1. You may not include other dependecies
 2. Meaning all code added to the project is code you wrote
 3. You may use react or vanilla Javascript (your choice)
 4. You may use Ecmascript 6, if you choose not to use react you may use a tool to bundle your import files (e.g. rollup)
 5. You only have to support modern browsers
-7. The project should have clear instruction how to run
-8. Code should be clean and commented where needed
-9. Completing the full assessment is not important, showing your process is
-
+6. The project should have clear instruction how to run
+7. Code should be clean and commented where needed
+8. Completing the full assessment is not important, showing your process is
 
 ## Setup of this project
 
@@ -24,7 +31,6 @@ In the src folder the index.js is your entry file. Not much happening there. In 
 The visualization component is currently a simple example to get you going. Feel free to split this up in multiple components. You may notice that this component is a class based one and extends another class. Hopefully you can make some sense from that. In this component we are rendering an SVG element. React supports svg elements just the same way as html. SVG is just very convinient to draw stuff. Please note that styling of SVG elements are slightly different from html. For example you use the 'fill' property instead of 'color' or 'background-color' and for lines (borders) you use 'stroke'. You can set this properties as usual, either by using CSS or inline styling.
 
 That's pretty much it!
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
