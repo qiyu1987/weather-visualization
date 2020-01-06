@@ -1,0 +1,2557 @@
+[
+    {
+      "date": 20181201,
+      "min_temp": 5.7,
+      "max_temp": 9.6,
+      "hours_sun": 0.6,
+      "mm_rain": 20
+    },
+    {
+      "date": 20181202,
+      "min_temp": 9.6,
+      "max_temp": 13.2,
+      "hours_sun": 0,
+      "mm_rain": 59
+    },
+    {
+      "date": 20181203,
+      "min_temp": 7.4,
+      "max_temp": 13.3,
+      "hours_sun": 1.3,
+      "mm_rain": 26
+    },
+    {
+      "date": 20181204,
+      "min_temp": 0.2,
+      "max_temp": 9.6,
+      "hours_sun": 5.8,
+      "mm_rain": 2
+    },
+    {
+      "date": 20181205,
+      "min_temp": 1.7,
+      "max_temp": 8.4,
+      "hours_sun": 0,
+      "mm_rain": 20
+    },
+    {
+      "date": 20181206,
+      "min_temp": 8.4,
+      "max_temp": 12.3,
+      "hours_sun": 0,
+      "mm_rain": 21
+    },
+    {
+      "date": 20181207,
+      "min_temp": 7.1,
+      "max_temp": 11.8,
+      "hours_sun": 0,
+      "mm_rain": 131
+    },
+    {
+      "date": 20181208,
+      "min_temp": 6.7,
+      "max_temp": 11.2,
+      "hours_sun": 0,
+      "mm_rain": 160
+    },
+    {
+      "date": 20181209,
+      "min_temp": 5.5,
+      "max_temp": 10,
+      "hours_sun": 1.8,
+      "mm_rain": 105
+    },
+    {
+      "date": 20181210,
+      "min_temp": 3.6,
+      "max_temp": 7.7,
+      "hours_sun": 2.4,
+      "mm_rain": 23
+    },
+    {
+      "date": 20181211,
+      "min_temp": -0.9,
+      "max_temp": 7.7,
+      "hours_sun": 2.7,
+      "mm_rain": 1
+    },
+    {
+      "date": 20181212,
+      "min_temp": -2.9,
+      "max_temp": 4.3,
+      "hours_sun": 0,
+      "mm_rain": 0
+    },
+    {
+      "date": 20181213,
+      "min_temp": -0.8,
+      "max_temp": 2.5,
+      "hours_sun": 6.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20181214,
+      "min_temp": -0.8,
+      "max_temp": 3.3,
+      "hours_sun": 6.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20181215,
+      "min_temp": -1.1,
+      "max_temp": 0.8,
+      "hours_sun": 0,
+      "mm_rain": 9
+    },
+    {
+      "date": 20181216,
+      "min_temp": -1,
+      "max_temp": 3.3,
+      "hours_sun": 0,
+      "mm_rain": 20
+    },
+    {
+      "date": 20181217,
+      "min_temp": 2.4,
+      "max_temp": 8.4,
+      "hours_sun": 0,
+      "mm_rain": 62
+    },
+    {
+      "date": 20181218,
+      "min_temp": 4.4,
+      "max_temp": 7.9,
+      "hours_sun": 2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20181219,
+      "min_temp": 5.5,
+      "max_temp": 9.8,
+      "hours_sun": 0.6,
+      "mm_rain": 1
+    },
+    {
+      "date": 20181220,
+      "min_temp": 5.4,
+      "max_temp": 8.7,
+      "hours_sun": 0,
+      "mm_rain": 37
+    },
+    {
+      "date": 20181221,
+      "min_temp": 7.4,
+      "max_temp": 12.3,
+      "hours_sun": 0,
+      "mm_rain": 140
+    },
+    {
+      "date": 20181222,
+      "min_temp": 8.9,
+      "max_temp": 10.8,
+      "hours_sun": 0.3,
+      "mm_rain": 59
+    },
+    {
+      "date": 20181223,
+      "min_temp": 5.4,
+      "max_temp": 8.9,
+      "hours_sun": 0,
+      "mm_rain": 96
+    },
+    {
+      "date": 20181224,
+      "min_temp": 3.2,
+      "max_temp": 8.4,
+      "hours_sun": 5,
+      "mm_rain": -1
+    },
+    {
+      "date": 20181225,
+      "min_temp": 3.7,
+      "max_temp": 7.5,
+      "hours_sun": 2.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20181226,
+      "min_temp": 1.5,
+      "max_temp": 5.3,
+      "hours_sun": 0,
+      "mm_rain": 0
+    },
+    {
+      "date": 20181227,
+      "min_temp": -2.7,
+      "max_temp": 4.8,
+      "hours_sun": 2.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20181228,
+      "min_temp": -3.1,
+      "max_temp": 5.4,
+      "hours_sun": 0,
+      "mm_rain": 0
+    },
+    {
+      "date": 20181229,
+      "min_temp": 5.4,
+      "max_temp": 10.9,
+      "hours_sun": 0,
+      "mm_rain": 4
+    },
+    {
+      "date": 20181230,
+      "min_temp": 6.2,
+      "max_temp": 9.5,
+      "hours_sun": 0,
+      "mm_rain": 10
+    },
+    {
+      "date": 20181231,
+      "min_temp": 7.7,
+      "max_temp": 10,
+      "hours_sun": 0.3,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190101,
+      "min_temp": 5.5,
+      "max_temp": 9.4,
+      "hours_sun": 1.1,
+      "mm_rain": 4
+    },
+    {
+      "date": 20190102,
+      "min_temp": 4.1,
+      "max_temp": 6.9,
+      "hours_sun": 0.9,
+      "mm_rain": 2
+    },
+    {
+      "date": 20190103,
+      "min_temp": 2.4,
+      "max_temp": 6.6,
+      "hours_sun": 3,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190104,
+      "min_temp": 1.9,
+      "max_temp": 6.5,
+      "hours_sun": 0,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190105,
+      "min_temp": 5.7,
+      "max_temp": 8,
+      "hours_sun": 0,
+      "mm_rain": 3
+    },
+    {
+      "date": 20190106,
+      "min_temp": 3.1,
+      "max_temp": 7.5,
+      "hours_sun": 0.7,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190107,
+      "min_temp": 0.4,
+      "max_temp": 10.2,
+      "hours_sun": 0,
+      "mm_rain": 13
+    },
+    {
+      "date": 20190108,
+      "min_temp": 3.7,
+      "max_temp": 8.5,
+      "hours_sun": 0.2,
+      "mm_rain": 37
+    },
+    {
+      "date": 20190109,
+      "min_temp": 3.2,
+      "max_temp": 7.2,
+      "hours_sun": 6.5,
+      "mm_rain": 4
+    },
+    {
+      "date": 20190110,
+      "min_temp": -0.2,
+      "max_temp": 5.4,
+      "hours_sun": 0,
+      "mm_rain": 12
+    },
+    {
+      "date": 20190111,
+      "min_temp": 3.8,
+      "max_temp": 8.6,
+      "hours_sun": 0,
+      "mm_rain": 25
+    },
+    {
+      "date": 20190112,
+      "min_temp": 6.4,
+      "max_temp": 8.8,
+      "hours_sun": 0,
+      "mm_rain": 36
+    },
+    {
+      "date": 20190113,
+      "min_temp": 7.9,
+      "max_temp": 10,
+      "hours_sun": 0,
+      "mm_rain": 60
+    },
+    {
+      "date": 20190114,
+      "min_temp": 2.3,
+      "max_temp": 8.4,
+      "hours_sun": 4.8,
+      "mm_rain": 38
+    },
+    {
+      "date": 20190115,
+      "min_temp": 2.4,
+      "max_temp": 8.4,
+      "hours_sun": 0.7,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190116,
+      "min_temp": 4.3,
+      "max_temp": 7.7,
+      "hours_sun": 0,
+      "mm_rain": 50
+    },
+    {
+      "date": 20190117,
+      "min_temp": 0.1,
+      "max_temp": 4.7,
+      "hours_sun": 1.7,
+      "mm_rain": 124
+    },
+    {
+      "date": 20190118,
+      "min_temp": -3.9,
+      "max_temp": 4.6,
+      "hours_sun": 6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190119,
+      "min_temp": -3.7,
+      "max_temp": 1.9,
+      "hours_sun": 5.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190120,
+      "min_temp": -6.4,
+      "max_temp": 2.9,
+      "hours_sun": 7.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190121,
+      "min_temp": -8.1,
+      "max_temp": 4.8,
+      "hours_sun": 7.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190122,
+      "min_temp": -3.4,
+      "max_temp": -0.6,
+      "hours_sun": 0.2,
+      "mm_rain": 22
+    },
+    {
+      "date": 20190123,
+      "min_temp": -3.3,
+      "max_temp": 0,
+      "hours_sun": 0,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190124,
+      "min_temp": -2.5,
+      "max_temp": -1.1,
+      "hours_sun": 0,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190125,
+      "min_temp": -2.8,
+      "max_temp": 7.2,
+      "hours_sun": 0,
+      "mm_rain": 22
+    },
+    {
+      "date": 20190126,
+      "min_temp": 6.6,
+      "max_temp": 7.7,
+      "hours_sun": 0,
+      "mm_rain": 41
+    },
+    {
+      "date": 20190127,
+      "min_temp": 3.9,
+      "max_temp": 7.4,
+      "hours_sun": 0.8,
+      "mm_rain": 79
+    },
+    {
+      "date": 20190128,
+      "min_temp": 0.4,
+      "max_temp": 6.3,
+      "hours_sun": 1.6,
+      "mm_rain": 26
+    },
+    {
+      "date": 20190129,
+      "min_temp": 0,
+      "max_temp": 4.2,
+      "hours_sun": 7.5,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190130,
+      "min_temp": -0.3,
+      "max_temp": 2.4,
+      "hours_sun": 1.2,
+      "mm_rain": 39
+    },
+    {
+      "date": 20190131,
+      "min_temp": -2.7,
+      "max_temp": 0.9,
+      "hours_sun": 0,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190201,
+      "min_temp": -1.1,
+      "max_temp": 2.1,
+      "hours_sun": 0,
+      "mm_rain": 10
+    },
+    {
+      "date": 20190202,
+      "min_temp": -0.3,
+      "max_temp": 2.4,
+      "hours_sun": 0,
+      "mm_rain": 29
+    },
+    {
+      "date": 20190203,
+      "min_temp": -2.7,
+      "max_temp": 6.7,
+      "hours_sun": 6.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190204,
+      "min_temp": -0.1,
+      "max_temp": 3.6,
+      "hours_sun": 0,
+      "mm_rain": 30
+    },
+    {
+      "date": 20190205,
+      "min_temp": 2.8,
+      "max_temp": 5.3,
+      "hours_sun": 0,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190206,
+      "min_temp": 2.7,
+      "max_temp": 7.1,
+      "hours_sun": 0,
+      "mm_rain": 154
+    },
+    {
+      "date": 20190207,
+      "min_temp": 6,
+      "max_temp": 9.9,
+      "hours_sun": 5,
+      "mm_rain": 57
+    },
+    {
+      "date": 20190208,
+      "min_temp": 5.5,
+      "max_temp": 9.9,
+      "hours_sun": 0,
+      "mm_rain": 34
+    },
+    {
+      "date": 20190209,
+      "min_temp": 7.1,
+      "max_temp": 10.3,
+      "hours_sun": 4.7,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190210,
+      "min_temp": 3.7,
+      "max_temp": 9.6,
+      "hours_sun": 0.2,
+      "mm_rain": 305
+    },
+    {
+      "date": 20190211,
+      "min_temp": 1.1,
+      "max_temp": 9,
+      "hours_sun": 6.5,
+      "mm_rain": 15
+    },
+    {
+      "date": 20190212,
+      "min_temp": -0.8,
+      "max_temp": 9.4,
+      "hours_sun": 5.6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190213,
+      "min_temp": 1.6,
+      "max_temp": 8.7,
+      "hours_sun": 2.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190214,
+      "min_temp": 0.3,
+      "max_temp": 12.1,
+      "hours_sun": 8.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190215,
+      "min_temp": 0.7,
+      "max_temp": 14.3,
+      "hours_sun": 8.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190216,
+      "min_temp": 0.2,
+      "max_temp": 13.3,
+      "hours_sun": 8.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190217,
+      "min_temp": -0.4,
+      "max_temp": 15.1,
+      "hours_sun": 8.6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190218,
+      "min_temp": 0.9,
+      "max_temp": 14.6,
+      "hours_sun": 8.9,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190219,
+      "min_temp": 5.3,
+      "max_temp": 10.5,
+      "hours_sun": 4.9,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190220,
+      "min_temp": 4.9,
+      "max_temp": 11.8,
+      "hours_sun": 6.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190221,
+      "min_temp": 5.2,
+      "max_temp": 11.4,
+      "hours_sun": 0.4,
+      "mm_rain": 18
+    },
+    {
+      "date": 20190222,
+      "min_temp": 5.6,
+      "max_temp": 11.5,
+      "hours_sun": 0,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190223,
+      "min_temp": 2.2,
+      "max_temp": 12.4,
+      "hours_sun": 9.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190224,
+      "min_temp": -1.7,
+      "max_temp": 14.7,
+      "hours_sun": 9.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190225,
+      "min_temp": -0.6,
+      "max_temp": 18.3,
+      "hours_sun": 9.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190226,
+      "min_temp": -0.8,
+      "max_temp": 18.9,
+      "hours_sun": 9.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190227,
+      "min_temp": 0.9,
+      "max_temp": 18.3,
+      "hours_sun": 9.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190228,
+      "min_temp": 1.1,
+      "max_temp": 12.2,
+      "hours_sun": 3.4,
+      "mm_rain": 22
+    },
+    {
+      "date": 20190301,
+      "min_temp": 3.6,
+      "max_temp": 9,
+      "hours_sun": 0,
+      "mm_rain": 2
+    },
+    {
+      "date": 20190302,
+      "min_temp": 3.2,
+      "max_temp": 12.3,
+      "hours_sun": 2.4,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190303,
+      "min_temp": 9.6,
+      "max_temp": 12.9,
+      "hours_sun": 0,
+      "mm_rain": 39
+    },
+    {
+      "date": 20190304,
+      "min_temp": 5.6,
+      "max_temp": 12.9,
+      "hours_sun": 5,
+      "mm_rain": 32
+    },
+    {
+      "date": 20190305,
+      "min_temp": 4.9,
+      "max_temp": 10.9,
+      "hours_sun": 8.4,
+      "mm_rain": 11
+    },
+    {
+      "date": 20190306,
+      "min_temp": 7.1,
+      "max_temp": 12.3,
+      "hours_sun": 0,
+      "mm_rain": 13
+    },
+    {
+      "date": 20190307,
+      "min_temp": 7,
+      "max_temp": 11.8,
+      "hours_sun": 5.7,
+      "mm_rain": 226
+    },
+    {
+      "date": 20190308,
+      "min_temp": 6,
+      "max_temp": 10.3,
+      "hours_sun": 5.7,
+      "mm_rain": 21
+    },
+    {
+      "date": 20190309,
+      "min_temp": 6.3,
+      "max_temp": 11.1,
+      "hours_sun": 2.5,
+      "mm_rain": 44
+    },
+    {
+      "date": 20190310,
+      "min_temp": 2.8,
+      "max_temp": 10.4,
+      "hours_sun": 0.2,
+      "mm_rain": 208
+    },
+    {
+      "date": 20190311,
+      "min_temp": 2.7,
+      "max_temp": 8.1,
+      "hours_sun": 4.2,
+      "mm_rain": 17
+    },
+    {
+      "date": 20190312,
+      "min_temp": 3.6,
+      "max_temp": 9.6,
+      "hours_sun": 0.1,
+      "mm_rain": 36
+    },
+    {
+      "date": 20190313,
+      "min_temp": 5.3,
+      "max_temp": 9.6,
+      "hours_sun": 1.8,
+      "mm_rain": 68
+    },
+    {
+      "date": 20190314,
+      "min_temp": 6.3,
+      "max_temp": 11.2,
+      "hours_sun": 0.6,
+      "mm_rain": 117
+    },
+    {
+      "date": 20190315,
+      "min_temp": 6.4,
+      "max_temp": 13.1,
+      "hours_sun": 0.1,
+      "mm_rain": 60
+    },
+    {
+      "date": 20190316,
+      "min_temp": 6.8,
+      "max_temp": 11.5,
+      "hours_sun": 0.1,
+      "mm_rain": 72
+    },
+    {
+      "date": 20190317,
+      "min_temp": 4.7,
+      "max_temp": 11,
+      "hours_sun": 7.9,
+      "mm_rain": 42
+    },
+    {
+      "date": 20190318,
+      "min_temp": -1.3,
+      "max_temp": 9.5,
+      "hours_sun": 6.9,
+      "mm_rain": 26
+    },
+    {
+      "date": 20190319,
+      "min_temp": -2.4,
+      "max_temp": 12.1,
+      "hours_sun": 6.1,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190320,
+      "min_temp": 2.9,
+      "max_temp": 11.9,
+      "hours_sun": 0,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190321,
+      "min_temp": 3.5,
+      "max_temp": 12,
+      "hours_sun": 0.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190322,
+      "min_temp": 3.7,
+      "max_temp": 17.3,
+      "hours_sun": 6.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190323,
+      "min_temp": 1.4,
+      "max_temp": 11.4,
+      "hours_sun": 2.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190324,
+      "min_temp": -1.3,
+      "max_temp": 11,
+      "hours_sun": 8.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190325,
+      "min_temp": 5.3,
+      "max_temp": 9.7,
+      "hours_sun": 3.8,
+      "mm_rain": 8
+    },
+    {
+      "date": 20190326,
+      "min_temp": 2.4,
+      "max_temp": 10.2,
+      "hours_sun": 1.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190327,
+      "min_temp": 5.9,
+      "max_temp": 13.1,
+      "hours_sun": 4.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190328,
+      "min_temp": 2.9,
+      "max_temp": 11.2,
+      "hours_sun": 0.2,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190329,
+      "min_temp": 0.3,
+      "max_temp": 17.1,
+      "hours_sun": 11,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190330,
+      "min_temp": 3.9,
+      "max_temp": 18.3,
+      "hours_sun": 8.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190331,
+      "min_temp": 3.3,
+      "max_temp": 12.5,
+      "hours_sun": 7.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190401,
+      "min_temp": 0.5,
+      "max_temp": 14.5,
+      "hours_sun": 12,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190402,
+      "min_temp": 2.4,
+      "max_temp": 15.5,
+      "hours_sun": 4,
+      "mm_rain": 117
+    },
+    {
+      "date": 20190403,
+      "min_temp": 2.1,
+      "max_temp": 9.5,
+      "hours_sun": 3.7,
+      "mm_rain": 43
+    },
+    {
+      "date": 20190404,
+      "min_temp": 0.9,
+      "max_temp": 10.3,
+      "hours_sun": 2.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190405,
+      "min_temp": 0,
+      "max_temp": 12.8,
+      "hours_sun": 9.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190406,
+      "min_temp": 7.5,
+      "max_temp": 15.1,
+      "hours_sun": 3.5,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190407,
+      "min_temp": 8.4,
+      "max_temp": 20.9,
+      "hours_sun": 8.9,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190408,
+      "min_temp": 7.5,
+      "max_temp": 21.5,
+      "hours_sun": 9.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190409,
+      "min_temp": 5,
+      "max_temp": 14.9,
+      "hours_sun": 11.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190410,
+      "min_temp": 2,
+      "max_temp": 10.9,
+      "hours_sun": 12.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190411,
+      "min_temp": 0.2,
+      "max_temp": 10.8,
+      "hours_sun": 10.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190412,
+      "min_temp": 1.3,
+      "max_temp": 9.4,
+      "hours_sun": 6.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190413,
+      "min_temp": -1.1,
+      "max_temp": 7.6,
+      "hours_sun": 10.2,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190414,
+      "min_temp": -0.3,
+      "max_temp": 11,
+      "hours_sun": 9.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190415,
+      "min_temp": 4.2,
+      "max_temp": 16.7,
+      "hours_sun": 11.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190416,
+      "min_temp": 6.2,
+      "max_temp": 18.2,
+      "hours_sun": 11.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190417,
+      "min_temp": 6.7,
+      "max_temp": 15.9,
+      "hours_sun": 3.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190418,
+      "min_temp": 10.5,
+      "max_temp": 21.6,
+      "hours_sun": 10.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190419,
+      "min_temp": 10.9,
+      "max_temp": 23.9,
+      "hours_sun": 13,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190420,
+      "min_temp": 8.8,
+      "max_temp": 24.4,
+      "hours_sun": 13.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190421,
+      "min_temp": 5.6,
+      "max_temp": 24.1,
+      "hours_sun": 13.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190422,
+      "min_temp": 5.1,
+      "max_temp": 24.8,
+      "hours_sun": 12.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190423,
+      "min_temp": 9.5,
+      "max_temp": 20.7,
+      "hours_sun": 10.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190424,
+      "min_temp": 10.2,
+      "max_temp": 24.9,
+      "hours_sun": 7.9,
+      "mm_rain": 92
+    },
+    {
+      "date": 20190425,
+      "min_temp": 8.4,
+      "max_temp": 17.5,
+      "hours_sun": 3.2,
+      "mm_rain": 21
+    },
+    {
+      "date": 20190426,
+      "min_temp": 8.8,
+      "max_temp": 17.4,
+      "hours_sun": 6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190427,
+      "min_temp": 6.7,
+      "max_temp": 13.6,
+      "hours_sun": 1.6,
+      "mm_rain": 89
+    },
+    {
+      "date": 20190428,
+      "min_temp": 5,
+      "max_temp": 13.9,
+      "hours_sun": 1.8,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190429,
+      "min_temp": 2,
+      "max_temp": 16,
+      "hours_sun": 12,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190430,
+      "min_temp": 6.1,
+      "max_temp": 12.4,
+      "hours_sun": 0,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190501,
+      "min_temp": 3.9,
+      "max_temp": 13.9,
+      "hours_sun": 6.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190502,
+      "min_temp": 2.6,
+      "max_temp": 14.2,
+      "hours_sun": 5.3,
+      "mm_rain": 51
+    },
+    {
+      "date": 20190503,
+      "min_temp": 4.8,
+      "max_temp": 11.1,
+      "hours_sun": 3.5,
+      "mm_rain": 24
+    },
+    {
+      "date": 20190504,
+      "min_temp": 2.7,
+      "max_temp": 10.2,
+      "hours_sun": 10.2,
+      "mm_rain": 9
+    },
+    {
+      "date": 20190505,
+      "min_temp": 2.9,
+      "max_temp": 11.7,
+      "hours_sun": 4.9,
+      "mm_rain": 6
+    },
+    {
+      "date": 20190506,
+      "min_temp": 1.1,
+      "max_temp": 11.4,
+      "hours_sun": 1.6,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190507,
+      "min_temp": 1.9,
+      "max_temp": 12.7,
+      "hours_sun": 2.7,
+      "mm_rain": 2
+    },
+    {
+      "date": 20190508,
+      "min_temp": 7.5,
+      "max_temp": 14,
+      "hours_sun": 3.2,
+      "mm_rain": 24
+    },
+    {
+      "date": 20190509,
+      "min_temp": 6.8,
+      "max_temp": 17.7,
+      "hours_sun": 11,
+      "mm_rain": 32
+    },
+    {
+      "date": 20190510,
+      "min_temp": 6.7,
+      "max_temp": 14.1,
+      "hours_sun": 3.5,
+      "mm_rain": 16
+    },
+    {
+      "date": 20190511,
+      "min_temp": 5,
+      "max_temp": 14.4,
+      "hours_sun": 12.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190512,
+      "min_temp": 3.2,
+      "max_temp": 14.6,
+      "hours_sun": 12.6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190513,
+      "min_temp": 0.4,
+      "max_temp": 15.2,
+      "hours_sun": 13.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190514,
+      "min_temp": 2.6,
+      "max_temp": 16.5,
+      "hours_sun": 12.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190515,
+      "min_temp": 4.2,
+      "max_temp": 17.5,
+      "hours_sun": 14,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190516,
+      "min_temp": 4.2,
+      "max_temp": 17.7,
+      "hours_sun": 7.5,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190517,
+      "min_temp": 8.9,
+      "max_temp": 15.4,
+      "hours_sun": 0.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190518,
+      "min_temp": 9,
+      "max_temp": 21.1,
+      "hours_sun": 10.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190519,
+      "min_temp": 11.8,
+      "max_temp": 21,
+      "hours_sun": 6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190520,
+      "min_temp": 11.5,
+      "max_temp": 16,
+      "hours_sun": 0,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190521,
+      "min_temp": 10.9,
+      "max_temp": 13.2,
+      "hours_sun": 0,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190522,
+      "min_temp": 6.1,
+      "max_temp": 19.1,
+      "hours_sun": 10.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190523,
+      "min_temp": 5.7,
+      "max_temp": 21.6,
+      "hours_sun": 14.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190524,
+      "min_temp": 8.5,
+      "max_temp": 21.9,
+      "hours_sun": 13,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190525,
+      "min_temp": 6.5,
+      "max_temp": 18.9,
+      "hours_sun": 6.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190526,
+      "min_temp": 7.6,
+      "max_temp": 20.6,
+      "hours_sun": 2.8,
+      "mm_rain": 88
+    },
+    {
+      "date": 20190527,
+      "min_temp": 10.5,
+      "max_temp": 18,
+      "hours_sun": 9.6,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190528,
+      "min_temp": 4.7,
+      "max_temp": 15.5,
+      "hours_sun": 6,
+      "mm_rain": 150
+    },
+    {
+      "date": 20190529,
+      "min_temp": 2.5,
+      "max_temp": 18.9,
+      "hours_sun": 13.3,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190530,
+      "min_temp": 12.8,
+      "max_temp": 21.9,
+      "hours_sun": 2.4,
+      "mm_rain": 2
+    },
+    {
+      "date": 20190531,
+      "min_temp": 11.5,
+      "max_temp": 20.4,
+      "hours_sun": 5.2,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190601,
+      "min_temp": 9.7,
+      "max_temp": 25.7,
+      "hours_sun": 13.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190602,
+      "min_temp": 12.8,
+      "max_temp": 30.4,
+      "hours_sun": 11.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190603,
+      "min_temp": 13.6,
+      "max_temp": 19.4,
+      "hours_sun": 1.6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190604,
+      "min_temp": 9,
+      "max_temp": 24.4,
+      "hours_sun": 5.5,
+      "mm_rain": 132
+    },
+    {
+      "date": 20190605,
+      "min_temp": 11.6,
+      "max_temp": 19.5,
+      "hours_sun": 1.5,
+      "mm_rain": 155
+    },
+    {
+      "date": 20190606,
+      "min_temp": 10.5,
+      "max_temp": 19,
+      "hours_sun": 9.6,
+      "mm_rain": 86
+    },
+    {
+      "date": 20190607,
+      "min_temp": 8.6,
+      "max_temp": 22.3,
+      "hours_sun": 6.3,
+      "mm_rain": 10
+    },
+    {
+      "date": 20190608,
+      "min_temp": 11.5,
+      "max_temp": 18.3,
+      "hours_sun": 6.5,
+      "mm_rain": 71
+    },
+    {
+      "date": 20190609,
+      "min_temp": 10,
+      "max_temp": 19.8,
+      "hours_sun": 6.5,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190610,
+      "min_temp": 13.7,
+      "max_temp": 22.4,
+      "hours_sun": 5.9,
+      "mm_rain": 6
+    },
+    {
+      "date": 20190611,
+      "min_temp": 12.1,
+      "max_temp": 19.9,
+      "hours_sun": 7.9,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190612,
+      "min_temp": 9.6,
+      "max_temp": 17.7,
+      "hours_sun": 3.2,
+      "mm_rain": 214
+    },
+    {
+      "date": 20190613,
+      "min_temp": 10.6,
+      "max_temp": 18.4,
+      "hours_sun": 4.9,
+      "mm_rain": 27
+    },
+    {
+      "date": 20190614,
+      "min_temp": 9.8,
+      "max_temp": 23.9,
+      "hours_sun": 9.5,
+      "mm_rain": 7
+    },
+    {
+      "date": 20190615,
+      "min_temp": 11.6,
+      "max_temp": 19.7,
+      "hours_sun": 2.7,
+      "mm_rain": 95
+    },
+    {
+      "date": 20190616,
+      "min_temp": 11.2,
+      "max_temp": 21.6,
+      "hours_sun": 9.9,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190617,
+      "min_temp": 10.7,
+      "max_temp": 25.5,
+      "hours_sun": 13.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190618,
+      "min_temp": 13,
+      "max_temp": 27.2,
+      "hours_sun": 9.3,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190619,
+      "min_temp": 14.5,
+      "max_temp": 26,
+      "hours_sun": 5.6,
+      "mm_rain": 408
+    },
+    {
+      "date": 20190620,
+      "min_temp": 11.8,
+      "max_temp": 20.3,
+      "hours_sun": 6.6,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190621,
+      "min_temp": 8.9,
+      "max_temp": 20.3,
+      "hours_sun": 10.1,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190622,
+      "min_temp": 7.6,
+      "max_temp": 22.8,
+      "hours_sun": 12.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190623,
+      "min_temp": 12.6,
+      "max_temp": 28.5,
+      "hours_sun": 12.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190624,
+      "min_temp": 19.2,
+      "max_temp": 31,
+      "hours_sun": 12.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190625,
+      "min_temp": 19.5,
+      "max_temp": 33.2,
+      "hours_sun": 8.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190626,
+      "min_temp": 15.9,
+      "max_temp": 22.9,
+      "hours_sun": 6.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190627,
+      "min_temp": 12.8,
+      "max_temp": 20.4,
+      "hours_sun": 14.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190628,
+      "min_temp": 12.8,
+      "max_temp": 24.3,
+      "hours_sun": 11.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190629,
+      "min_temp": 12.7,
+      "max_temp": 31.1,
+      "hours_sun": 15.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190630,
+      "min_temp": 14.1,
+      "max_temp": 24,
+      "hours_sun": 12.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190701,
+      "min_temp": 14.3,
+      "max_temp": 20.9,
+      "hours_sun": 10.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190702,
+      "min_temp": 11.7,
+      "max_temp": 21.7,
+      "hours_sun": 12,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190703,
+      "min_temp": 8.8,
+      "max_temp": 20.2,
+      "hours_sun": 8.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190704,
+      "min_temp": 6.6,
+      "max_temp": 22.8,
+      "hours_sun": 14,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190705,
+      "min_temp": 12.4,
+      "max_temp": 23.2,
+      "hours_sun": 11.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190706,
+      "min_temp": 11.3,
+      "max_temp": 22.9,
+      "hours_sun": 5.4,
+      "mm_rain": 22
+    },
+    {
+      "date": 20190707,
+      "min_temp": 7.8,
+      "max_temp": 18.1,
+      "hours_sun": 5.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190708,
+      "min_temp": 7.9,
+      "max_temp": 16.7,
+      "hours_sun": 3.5,
+      "mm_rain": 3
+    },
+    {
+      "date": 20190709,
+      "min_temp": 6.9,
+      "max_temp": 20.4,
+      "hours_sun": 13.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190710,
+      "min_temp": 8.8,
+      "max_temp": 18.7,
+      "hours_sun": 0.2,
+      "mm_rain": 39
+    },
+    {
+      "date": 20190711,
+      "min_temp": 13.7,
+      "max_temp": 23.8,
+      "hours_sun": 5.8,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190712,
+      "min_temp": 13.1,
+      "max_temp": 20.5,
+      "hours_sun": 2.7,
+      "mm_rain": 286
+    },
+    {
+      "date": 20190713,
+      "min_temp": 14.5,
+      "max_temp": 19.7,
+      "hours_sun": 1.6,
+      "mm_rain": 23
+    },
+    {
+      "date": 20190714,
+      "min_temp": 13.7,
+      "max_temp": 19.3,
+      "hours_sun": 3,
+      "mm_rain": 1
+    },
+    {
+      "date": 20190715,
+      "min_temp": 13.4,
+      "max_temp": 18.5,
+      "hours_sun": 1.9,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190716,
+      "min_temp": 10.8,
+      "max_temp": 19.1,
+      "hours_sun": 2.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190717,
+      "min_temp": 8.7,
+      "max_temp": 24.8,
+      "hours_sun": 11.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190718,
+      "min_temp": 15.2,
+      "max_temp": 22.7,
+      "hours_sun": 3.6,
+      "mm_rain": 7
+    },
+    {
+      "date": 20190719,
+      "min_temp": 14.1,
+      "max_temp": 24.3,
+      "hours_sun": 5.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190720,
+      "min_temp": 16.3,
+      "max_temp": 23.6,
+      "hours_sun": 4.7,
+      "mm_rain": 84
+    },
+    {
+      "date": 20190721,
+      "min_temp": 13.5,
+      "max_temp": 22.6,
+      "hours_sun": 8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190722,
+      "min_temp": 13.9,
+      "max_temp": 26.4,
+      "hours_sun": 11.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190723,
+      "min_temp": 13.1,
+      "max_temp": 31.9,
+      "hours_sun": 14.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190724,
+      "min_temp": 16.6,
+      "max_temp": 36.4,
+      "hours_sun": 13.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190725,
+      "min_temp": 16.6,
+      "max_temp": 37.5,
+      "hours_sun": 12.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190726,
+      "min_temp": 22.3,
+      "max_temp": 37.2,
+      "hours_sun": 11.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190727,
+      "min_temp": 18.5,
+      "max_temp": 28.8,
+      "hours_sun": 8.4,
+      "mm_rain": 22
+    },
+    {
+      "date": 20190728,
+      "min_temp": 16.3,
+      "max_temp": 24.2,
+      "hours_sun": 2.3,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190729,
+      "min_temp": 13.9,
+      "max_temp": 25.1,
+      "hours_sun": 11.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190730,
+      "min_temp": 12.3,
+      "max_temp": 27.8,
+      "hours_sun": 12.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190731,
+      "min_temp": 15.8,
+      "max_temp": 21.1,
+      "hours_sun": 5.9,
+      "mm_rain": 42
+    },
+    {
+      "date": 20190801,
+      "min_temp": 15.3,
+      "max_temp": 22.6,
+      "hours_sun": 5.4,
+      "mm_rain": 32
+    },
+    {
+      "date": 20190802,
+      "min_temp": 14.4,
+      "max_temp": 21.4,
+      "hours_sun": 3.9,
+      "mm_rain": 83
+    },
+    {
+      "date": 20190803,
+      "min_temp": 12.4,
+      "max_temp": 21.4,
+      "hours_sun": 1.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190804,
+      "min_temp": 10.9,
+      "max_temp": 25,
+      "hours_sun": 8.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190805,
+      "min_temp": 17.2,
+      "max_temp": 24.4,
+      "hours_sun": 6.3,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190806,
+      "min_temp": 15.6,
+      "max_temp": 23.6,
+      "hours_sun": 6.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190807,
+      "min_temp": 16.2,
+      "max_temp": 23,
+      "hours_sun": 10.1,
+      "mm_rain": 35
+    },
+    {
+      "date": 20190808,
+      "min_temp": 13.1,
+      "max_temp": 23.6,
+      "hours_sun": 8.9,
+      "mm_rain": 3
+    },
+    {
+      "date": 20190809,
+      "min_temp": 13.3,
+      "max_temp": 24.2,
+      "hours_sun": 1.7,
+      "mm_rain": 72
+    },
+    {
+      "date": 20190810,
+      "min_temp": 17,
+      "max_temp": 23.7,
+      "hours_sun": 9.5,
+      "mm_rain": 2
+    },
+    {
+      "date": 20190811,
+      "min_temp": 15.1,
+      "max_temp": 21.6,
+      "hours_sun": 6.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190812,
+      "min_temp": 13,
+      "max_temp": 21.7,
+      "hours_sun": 6.9,
+      "mm_rain": 143
+    },
+    {
+      "date": 20190813,
+      "min_temp": 10.3,
+      "max_temp": 18.4,
+      "hours_sun": 7.8,
+      "mm_rain": 93
+    },
+    {
+      "date": 20190814,
+      "min_temp": 10.9,
+      "max_temp": 21.1,
+      "hours_sun": 6.1,
+      "mm_rain": 59
+    },
+    {
+      "date": 20190815,
+      "min_temp": 12.2,
+      "max_temp": 20.8,
+      "hours_sun": 3.7,
+      "mm_rain": 37
+    },
+    {
+      "date": 20190816,
+      "min_temp": 10.1,
+      "max_temp": 21.5,
+      "hours_sun": 5.1,
+      "mm_rain": 6
+    },
+    {
+      "date": 20190817,
+      "min_temp": 15.6,
+      "max_temp": 19.2,
+      "hours_sun": 0.8,
+      "mm_rain": 130
+    },
+    {
+      "date": 20190818,
+      "min_temp": 14.7,
+      "max_temp": 19.9,
+      "hours_sun": 3.1,
+      "mm_rain": 2
+    },
+    {
+      "date": 20190819,
+      "min_temp": 13.5,
+      "max_temp": 21,
+      "hours_sun": 7.9,
+      "mm_rain": 2
+    },
+    {
+      "date": 20190820,
+      "min_temp": 9.3,
+      "max_temp": 20.5,
+      "hours_sun": 9.1,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190821,
+      "min_temp": 8.1,
+      "max_temp": 22.5,
+      "hours_sun": 13,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190822,
+      "min_temp": 8,
+      "max_temp": 23.9,
+      "hours_sun": 12.6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190823,
+      "min_temp": 8.8,
+      "max_temp": 25.9,
+      "hours_sun": 12.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190824,
+      "min_temp": 10.4,
+      "max_temp": 29.7,
+      "hours_sun": 13,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190825,
+      "min_temp": 11.3,
+      "max_temp": 31.3,
+      "hours_sun": 12.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190826,
+      "min_temp": 13.5,
+      "max_temp": 31,
+      "hours_sun": 11.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190827,
+      "min_temp": 15.8,
+      "max_temp": 32.8,
+      "hours_sun": 10.6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190828,
+      "min_temp": 16.6,
+      "max_temp": 27.6,
+      "hours_sun": 4.1,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190829,
+      "min_temp": 10.7,
+      "max_temp": 22.6,
+      "hours_sun": 5.8,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190830,
+      "min_temp": 9.6,
+      "max_temp": 23.4,
+      "hours_sun": 11,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190831,
+      "min_temp": 9.3,
+      "max_temp": 28.1,
+      "hours_sun": 10,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190901,
+      "min_temp": 12,
+      "max_temp": 20.6,
+      "hours_sun": 6,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190902,
+      "min_temp": 10.3,
+      "max_temp": 20.8,
+      "hours_sun": 8.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190903,
+      "min_temp": 11.1,
+      "max_temp": 20.2,
+      "hours_sun": 1.3,
+      "mm_rain": -1
+    },
+    {
+      "date": 20190904,
+      "min_temp": 11.1,
+      "max_temp": 17.8,
+      "hours_sun": 2.6,
+      "mm_rain": 86
+    },
+    {
+      "date": 20190905,
+      "min_temp": 6.5,
+      "max_temp": 17.4,
+      "hours_sun": 7.9,
+      "mm_rain": 9
+    },
+    {
+      "date": 20190906,
+      "min_temp": 6.6,
+      "max_temp": 18.5,
+      "hours_sun": 2.9,
+      "mm_rain": 101
+    },
+    {
+      "date": 20190907,
+      "min_temp": 10.1,
+      "max_temp": 17.9,
+      "hours_sun": 5.2,
+      "mm_rain": 27
+    },
+    {
+      "date": 20190908,
+      "min_temp": 6.9,
+      "max_temp": 18.2,
+      "hours_sun": 10.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190909,
+      "min_temp": 5.2,
+      "max_temp": 18,
+      "hours_sun": 9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190910,
+      "min_temp": 5.2,
+      "max_temp": 19.3,
+      "hours_sun": 4.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190911,
+      "min_temp": 9.2,
+      "max_temp": 17.5,
+      "hours_sun": 0.3,
+      "mm_rain": 54
+    },
+    {
+      "date": 20190912,
+      "min_temp": 14.2,
+      "max_temp": 21.9,
+      "hours_sun": 5.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190913,
+      "min_temp": 9.3,
+      "max_temp": 21,
+      "hours_sun": 7.9,
+      "mm_rain": 11
+    },
+    {
+      "date": 20190914,
+      "min_temp": 6.9,
+      "max_temp": 21,
+      "hours_sun": 11.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190915,
+      "min_temp": 6.8,
+      "max_temp": 22.6,
+      "hours_sun": 7.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190916,
+      "min_temp": 8.3,
+      "max_temp": 16.2,
+      "hours_sun": 0.8,
+      "mm_rain": 43
+    },
+    {
+      "date": 20190917,
+      "min_temp": 6.3,
+      "max_temp": 17.9,
+      "hours_sun": 4.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190918,
+      "min_temp": 5,
+      "max_temp": 17.6,
+      "hours_sun": 5.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190919,
+      "min_temp": 5.9,
+      "max_temp": 17.6,
+      "hours_sun": 6.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190920,
+      "min_temp": 4,
+      "max_temp": 18.8,
+      "hours_sun": 10.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190921,
+      "min_temp": 7.5,
+      "max_temp": 23.7,
+      "hours_sun": 11.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20190922,
+      "min_temp": 11.7,
+      "max_temp": 26.5,
+      "hours_sun": 8.6,
+      "mm_rain": 46
+    },
+    {
+      "date": 20190923,
+      "min_temp": 11.1,
+      "max_temp": 19.5,
+      "hours_sun": 4.2,
+      "mm_rain": 10
+    },
+    {
+      "date": 20190924,
+      "min_temp": 13.8,
+      "max_temp": 17.4,
+      "hours_sun": 0,
+      "mm_rain": 56
+    },
+    {
+      "date": 20190925,
+      "min_temp": 12.9,
+      "max_temp": 17.1,
+      "hours_sun": 0.2,
+      "mm_rain": 11
+    },
+    {
+      "date": 20190926,
+      "min_temp": 13.5,
+      "max_temp": 18.3,
+      "hours_sun": 0,
+      "mm_rain": 156
+    },
+    {
+      "date": 20190927,
+      "min_temp": 13.2,
+      "max_temp": 18.4,
+      "hours_sun": 6.3,
+      "mm_rain": 10
+    },
+    {
+      "date": 20190928,
+      "min_temp": 13.8,
+      "max_temp": 17.5,
+      "hours_sun": 3.3,
+      "mm_rain": 60
+    },
+    {
+      "date": 20190929,
+      "min_temp": 13.1,
+      "max_temp": 16.9,
+      "hours_sun": 0.1,
+      "mm_rain": 221
+    },
+    {
+      "date": 20190930,
+      "min_temp": 13,
+      "max_temp": 17.5,
+      "hours_sun": 5,
+      "mm_rain": 87
+    },
+    {
+      "date": 20191001,
+      "min_temp": 10.4,
+      "max_temp": 18.3,
+      "hours_sun": 1.4,
+      "mm_rain": 171
+    },
+    {
+      "date": 20191002,
+      "min_temp": 8.1,
+      "max_temp": 14.1,
+      "hours_sun": 7.3,
+      "mm_rain": 10
+    },
+    {
+      "date": 20191003,
+      "min_temp": 9,
+      "max_temp": 14.7,
+      "hours_sun": 4.4,
+      "mm_rain": 7
+    },
+    {
+      "date": 20191004,
+      "min_temp": 8.6,
+      "max_temp": 14.5,
+      "hours_sun": 0.5,
+      "mm_rain": 119
+    },
+    {
+      "date": 20191005,
+      "min_temp": 6.7,
+      "max_temp": 14,
+      "hours_sun": 7.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191006,
+      "min_temp": 8.4,
+      "max_temp": 9.6,
+      "hours_sun": 0,
+      "mm_rain": 101
+    },
+    {
+      "date": 20191007,
+      "min_temp": 7.1,
+      "max_temp": 12.2,
+      "hours_sun": 0.5,
+      "mm_rain": 12
+    },
+    {
+      "date": 20191008,
+      "min_temp": 11.1,
+      "max_temp": 15.2,
+      "hours_sun": 0.5,
+      "mm_rain": 56
+    },
+    {
+      "date": 20191009,
+      "min_temp": 10.1,
+      "max_temp": 13.6,
+      "hours_sun": 0.2,
+      "mm_rain": 185
+    },
+    {
+      "date": 20191010,
+      "min_temp": 9.8,
+      "max_temp": 15.6,
+      "hours_sun": 6.4,
+      "mm_rain": 7
+    },
+    {
+      "date": 20191011,
+      "min_temp": 12.4,
+      "max_temp": 16.9,
+      "hours_sun": 0,
+      "mm_rain": 19
+    },
+    {
+      "date": 20191012,
+      "min_temp": 11.1,
+      "max_temp": 16.8,
+      "hours_sun": 0,
+      "mm_rain": 67
+    },
+    {
+      "date": 20191013,
+      "min_temp": 11.1,
+      "max_temp": 22,
+      "hours_sun": 1.2,
+      "mm_rain": 62
+    },
+    {
+      "date": 20191014,
+      "min_temp": 11.8,
+      "max_temp": 18.2,
+      "hours_sun": 2.1,
+      "mm_rain": 15
+    },
+    {
+      "date": 20191015,
+      "min_temp": 12.4,
+      "max_temp": 17,
+      "hours_sun": 1,
+      "mm_rain": 4
+    },
+    {
+      "date": 20191016,
+      "min_temp": 10.3,
+      "max_temp": 14.4,
+      "hours_sun": 2.9,
+      "mm_rain": 87
+    },
+    {
+      "date": 20191017,
+      "min_temp": 9.8,
+      "max_temp": 16.2,
+      "hours_sun": 3.1,
+      "mm_rain": 10
+    },
+    {
+      "date": 20191018,
+      "min_temp": 10.6,
+      "max_temp": 14.5,
+      "hours_sun": 2.8,
+      "mm_rain": 3
+    },
+    {
+      "date": 20191019,
+      "min_temp": 10.3,
+      "max_temp": 14.5,
+      "hours_sun": 3.8,
+      "mm_rain": 13
+    },
+    {
+      "date": 20191020,
+      "min_temp": 6,
+      "max_temp": 13.8,
+      "hours_sun": 1.9,
+      "mm_rain": -1
+    },
+    {
+      "date": 20191021,
+      "min_temp": 10.6,
+      "max_temp": 14.8,
+      "hours_sun": 0.2,
+      "mm_rain": 72
+    },
+    {
+      "date": 20191022,
+      "min_temp": 5.8,
+      "max_temp": 15.8,
+      "hours_sun": 1.4,
+      "mm_rain": -1
+    },
+    {
+      "date": 20191023,
+      "min_temp": 5.2,
+      "max_temp": 15.8,
+      "hours_sun": 3.4,
+      "mm_rain": 1
+    },
+    {
+      "date": 20191024,
+      "min_temp": 11.6,
+      "max_temp": 19.6,
+      "hours_sun": 3.8,
+      "mm_rain": 8
+    },
+    {
+      "date": 20191025,
+      "min_temp": 11.5,
+      "max_temp": 15.4,
+      "hours_sun": 3.4,
+      "mm_rain": -1
+    },
+    {
+      "date": 20191026,
+      "min_temp": 11.6,
+      "max_temp": 19.9,
+      "hours_sun": 5.9,
+      "mm_rain": 22
+    },
+    {
+      "date": 20191027,
+      "min_temp": 4.1,
+      "max_temp": 13.3,
+      "hours_sun": 4.5,
+      "mm_rain": 3
+    },
+    {
+      "date": 20191028,
+      "min_temp": 1.7,
+      "max_temp": 13,
+      "hours_sun": 5.5,
+      "mm_rain": -1
+    },
+    {
+      "date": 20191029,
+      "min_temp": 0.8,
+      "max_temp": 12.1,
+      "hours_sun": 8.1,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191030,
+      "min_temp": 0.5,
+      "max_temp": 10.4,
+      "hours_sun": 7.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191031,
+      "min_temp": -0.6,
+      "max_temp": 10.1,
+      "hours_sun": 8.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191101,
+      "min_temp": -0.7,
+      "max_temp": 13.4,
+      "hours_sun": 0,
+      "mm_rain": 35
+    },
+    {
+      "date": 20191102,
+      "min_temp": 10.7,
+      "max_temp": 14.7,
+      "hours_sun": 3.8,
+      "mm_rain": 116
+    },
+    {
+      "date": 20191103,
+      "min_temp": 8.5,
+      "max_temp": 12.5,
+      "hours_sun": 2.1,
+      "mm_rain": 135
+    },
+    {
+      "date": 20191104,
+      "min_temp": 8.9,
+      "max_temp": 12.5,
+      "hours_sun": 1.7,
+      "mm_rain": 32
+    },
+    {
+      "date": 20191105,
+      "min_temp": 7.7,
+      "max_temp": 10.9,
+      "hours_sun": 0.1,
+      "mm_rain": 43
+    },
+    {
+      "date": 20191106,
+      "min_temp": 6.7,
+      "max_temp": 11.4,
+      "hours_sun": 3.4,
+      "mm_rain": 3
+    },
+    {
+      "date": 20191107,
+      "min_temp": 5.4,
+      "max_temp": 9.6,
+      "hours_sun": 0.6,
+      "mm_rain": 56
+    },
+    {
+      "date": 20191108,
+      "min_temp": 1.8,
+      "max_temp": 9.7,
+      "hours_sun": 8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191109,
+      "min_temp": 1.9,
+      "max_temp": 10.7,
+      "hours_sun": 2.7,
+      "mm_rain": 2
+    },
+    {
+      "date": 20191110,
+      "min_temp": -1.3,
+      "max_temp": 9.4,
+      "hours_sun": 7.8,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191111,
+      "min_temp": -0.1,
+      "max_temp": 7.9,
+      "hours_sun": 0.2,
+      "mm_rain": 83
+    },
+    {
+      "date": 20191112,
+      "min_temp": 4.1,
+      "max_temp": 7.3,
+      "hours_sun": 2.7,
+      "mm_rain": 52
+    },
+    {
+      "date": 20191113,
+      "min_temp": 4.1,
+      "max_temp": 8,
+      "hours_sun": 1.7,
+      "mm_rain": 87
+    },
+    {
+      "date": 20191114,
+      "min_temp": 3.5,
+      "max_temp": 7.8,
+      "hours_sun": 0.5,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191115,
+      "min_temp": 2.2,
+      "max_temp": 5.6,
+      "hours_sun": 0.4,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191116,
+      "min_temp": 0.6,
+      "max_temp": 6.2,
+      "hours_sun": 0.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191117,
+      "min_temp": 0.7,
+      "max_temp": 8.1,
+      "hours_sun": 4.6,
+      "mm_rain": 12
+    },
+    {
+      "date": 20191118,
+      "min_temp": 4.3,
+      "max_temp": 8.3,
+      "hours_sun": 0,
+      "mm_rain": 54
+    },
+    {
+      "date": 20191119,
+      "min_temp": -1.1,
+      "max_temp": 7.7,
+      "hours_sun": 2.3,
+      "mm_rain": 20
+    },
+    {
+      "date": 20191120,
+      "min_temp": -2.5,
+      "max_temp": 6.6,
+      "hours_sun": 6.3,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191121,
+      "min_temp": 1,
+      "max_temp": 5.5,
+      "hours_sun": 3.2,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191122,
+      "min_temp": 3.2,
+      "max_temp": 10.7,
+      "hours_sun": 5,
+      "mm_rain": 3
+    },
+    {
+      "date": 20191123,
+      "min_temp": 4,
+      "max_temp": 8.2,
+      "hours_sun": 0.6,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191124,
+      "min_temp": 0.7,
+      "max_temp": 9.9,
+      "hours_sun": 4.9,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191125,
+      "min_temp": 5.6,
+      "max_temp": 10.6,
+      "hours_sun": 3.7,
+      "mm_rain": 0
+    },
+    {
+      "date": 20191126,
+      "min_temp": 7.1,
+      "max_temp": 11.5,
+      "hours_sun": 0,
+      "mm_rain": 19
+    },
+    {
+      "date": 20191127,
+      "min_temp": 9.6,
+      "max_temp": 11.9,
+      "hours_sun": 0.6,
+      "mm_rain": 116
+    },
+    {
+      "date": 20191128,
+      "min_temp": 7.1,
+      "max_temp": 10.7,
+      "hours_sun": 0,
+      "mm_rain": 142
+    },
+    {
+      "date": 20191129,
+      "min_temp": -1.1,
+      "max_temp": 8.8,
+      "hours_sun": 3.3,
+      "mm_rain": 1
+    },
+    {
+      "date": 20191130,
+      "min_temp": -2.8,
+      "max_temp": 9.2,
+      "hours_sun": 6.2,
+      "mm_rain": -1
+    }
+  ]

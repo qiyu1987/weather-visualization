@@ -1,0 +1,9 @@
+{
+  "short_name": "Weather assessment",
+  "name": "Weather assessment",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
