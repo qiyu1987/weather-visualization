@@ -85,39 +85,38 @@ class WeatherModel extends XhrModel {
 		// we like to have the maximum and minimum temperature of
 		// the week, the average hours of sun per day and the total
 		// amount of rain that week.
-		console.log("get data by week")
 		let dataByWeek = []
 		if (this.status === WeatherModel.Status.SUCCESS && this.data) {
 			// here we can process the data if we want/need to
-
+			// group dataByDays into groupByWeek
+			// groupByWeek is 2-D array with elements as array of 7 days
+			// [[day1,...,day7],...]
 			let groupByWeek = []
 			const dataByDays = [...this.data]
 			while (dataByDays.length) {
 				groupByWeek.push(dataByDays.splice(0, 7))
 			}
-			console.log("groupByWeek", groupByWeek)
+			// dataByWeek is array of everage data of the 7 days sub array
+			// [{week:0, max_temp:3.5, ...},...]
 			dataByWeek = groupByWeek.map((week, index) => {
-				let weekSum = week.reduce(
-					(acc, cur) => {
-						for (const key of Object.keys(cur)) {
+				let weekSumInit = {
+					week: index,
+					...week[0]
+				}
+				for (const key of Object.keys(weekSumInit)) {
+					weekSumInit[key] = key === "week" ? weekSumInit[key] : 0
+				}
+				const weekSum = week.reduce((acc, cur) => {
+					for (const key of Object.keys(cur)) {
+						if (key !== "date") {
 							acc[key] += cur[key]
 						}
-						return acc
-					},
-					{
-						week: index,
-						hours_sun: 0,
-						max_temp: 0,
-						min_temp: 0,
-						mm_rain: 0
 					}
-				)
-				const weekAvg = {
-					week: weekSum["week"],
-					hours_sun: weekSum["hours_sun"] / 7,
-					max_temp: weekSum["max_temp"] / 7,
-					min_temp: weekSum["min_temp"] / 7,
-					mm_rain: weekSum["mm_rain"] / 7
+					return acc
+				}, weekSumInit)
+				let weekAvg = {}
+				for (const key of Object.keys(weekSum)) {
+					weekAvg[key] = key === "week" ? weekSum[key] : weekSum[key] / 7
 				}
 				return weekAvg
 			})
