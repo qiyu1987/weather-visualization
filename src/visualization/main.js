@@ -2,7 +2,7 @@ import React from "react"
 import SizedComponent from "../helpers/sized_component"
 
 const barStyle = {
-	fill: "#E4E4E4"
+	fill: `rgb(255, 0, 0)`
 }
 
 const styleGridLine = {
@@ -67,7 +67,10 @@ class Visualization extends SizedComponent {
 					width={w}
 					height={yMin - yMax}
 					key={d.date}
-					style={barStyle}
+					style={{
+						fill: `rgb(${((d.max_temp + 10) / 50) * 255},
+                            0,${255 - ((d.max_temp + 10) / 50) * 255})`
+					}}
 				/>
 			)
 			x += barWidth
