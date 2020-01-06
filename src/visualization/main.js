@@ -2,7 +2,7 @@ import React from "react"
 import SizedComponent from "../helpers/sized_component"
 
 const barStyle = {
-	fill: "#E4E4E4"
+	fill: `rgb(255, 0, 0)`
 }
 
 const styleGridLine = {
@@ -60,6 +60,14 @@ class Visualization extends SizedComponent {
 			// change the height
 			const yMax = this.getY(d.max_temp)
 			const yMin = this.getY(d.min_temp)
+			// color bar based on average temporature
+			const avg_temp = (d.max_temp + d.min_temp) / 2
+			// assuming range from (-5, 30), we can later changed to base on data
+			const avg_red = 255 * ((avg_temp + 5) / 35)
+			const avg_blue = 255 - avg_red
+			const colorStyle = {
+				fill: `rgb(${avg_red},50,${avg_blue})`
+			}
 			bars.push(
 				<rect
 					x={x}
@@ -67,7 +75,7 @@ class Visualization extends SizedComponent {
 					width={w}
 					height={yMin - yMax}
 					key={d.date}
-					style={barStyle}
+					style={colorStyle}
 				/>
 			)
 			x += barWidth
