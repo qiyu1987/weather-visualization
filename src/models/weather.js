@@ -116,7 +116,8 @@ class WeatherModel extends XhrModel {
 				}, weekSumInit)
 				let weekAvg = {}
 				for (const key of Object.keys(weekSum)) {
-					weekAvg[key] = key === "week" ? weekSum[key] : weekSum[key] / 7
+					weekAvg[key] =
+						key === "week" ? weekSum[key] : weekSum[key] / week.length
 				}
 				return weekAvg
 			})
